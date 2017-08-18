@@ -3,4 +3,4 @@
 
 #### Youtube Video for grid 1- 3 HTML Files
 
-[CSS Grid Tutorials](https://www.google.com)
+[CSS Grid Tutorial](https://www.google.com)
