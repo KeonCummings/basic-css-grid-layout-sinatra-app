@@ -7,6 +7,6 @@
 [CSS Grid Tutorial](https://www.google.com)
 
 #### Youtube: Adding Media Queries & Responsive Elements
-[Video#1](https://www.youtube.com/watch?v=5xzaGSYd7jM&index=7&list=PLm0Y_ENRB6G4XnmuMbDwi42q8QRlYQ-Ao)
+[Media Queries](https://www.youtube.com/watch?v=5xzaGSYd7jM&index=7&list=PLm0Y_ENRB6G4XnmuMbDwi42q8QRlYQ-Ao)
 
-[Video#1](https://www.youtube.com/watch?v=0gBnRll5XgA&list=PLm0Y_ENRB6G4XnmuMbDwi42q8QRlYQ-Ao&index=9)
+[Responsive](https://www.youtube.com/watch?v=0gBnRll5XgA&list=PLm0Y_ENRB6G4XnmuMbDwi42q8QRlYQ-Ao&index=9)
