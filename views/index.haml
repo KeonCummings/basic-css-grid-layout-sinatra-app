@@ -3,9 +3,10 @@
 		%link{:rel => "stylesheet", :href => "css/main.css"}
 	%body
 		.container
-			.dropdown.dropdown-dark
-				%select{:name => "one", :class=> "dropdown-select"}
-				%option{:value => "option"} = Select
+			-(1..5).each do |i|
+				.dropdown.dropdown-dark
+					%select{:name => "one", :class=> "dropdown-select"}
+					%option{:value => "option"} = Select
 			.content  
 				%span.content Lorem ipsum dolor sit amet, consectetur adipisicing elit. At voluptatem harum quidem architecto laborum quaerat quasi cupiditate, praesentium natus asperiores nisi, commodi eos est! Optio, totam pariatur dolor doloremque porro voluptatem hic iusto, fuga vel nihil atque quisquam tempora sed debitis fugiat iure consequuntur. Ab odio suscipit repellendus expedita iure, dignissimos amet nulla id deleniti aperiam! Nulla blanditiis, ratione eum odio dolorum optio. Velit mollitia animi non quae illum eos commodi dolore fugiat porro aliquid quod explicabo, a distinctio nulla, quas sint. Commodi voluptatum, adipisci eum! Veniam perspiciatis maxime vitae, impedit est saepe, eos officiis quod omnis error quidem optio.
 			.sidebar 
